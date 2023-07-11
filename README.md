@@ -3,8 +3,16 @@
 
 
 ```script
-   Installation Process
+   git clone https://github.com/mrwilbroad/app-express-js.git
 ```
+
+- Usage
+- In the Project Folder
+```script
+   npm run dev
+```
+
+
 # Note: Make sure you have MongoDb installed into your Machine
 - Otherwise See installation proccess at [MongoDb-Installation-Process](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 
