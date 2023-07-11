@@ -1,0 +1,27 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "connect express js to angular client side application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "mrwilbroad",
+    "expressjs",
+    "angularjs"
+  ],
+  "author": "mrwilbroad",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "^5.2.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "expressjs": "^1.0.1",
+    "mongodb": "^5.6.0",
+    "nodemon": "^2.0.22"
+  }
+}
